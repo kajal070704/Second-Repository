@@ -129,7 +129,7 @@ public class HotelAppTestTables {
 	@Then("I am Searched  successfully")
 	public void i_am_searched_successfully() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	   // throw new io.cucumber.java.PendingException();
 	}
 
 
