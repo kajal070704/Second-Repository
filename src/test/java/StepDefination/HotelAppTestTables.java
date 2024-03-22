@@ -130,6 +130,7 @@ public class HotelAppTestTables {
 	public void i_am_searched_successfully() {
 	    // Write code here that turns the phrase above into concrete actions
 	   // throw new io.cucumber.java.PendingException();
+		System.out.println("My jva");
 	}
 
 
